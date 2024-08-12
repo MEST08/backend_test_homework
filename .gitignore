@@ -1,0 +1,4 @@
+ *.doc
+ BACKEND_TEST_HOMEWORK/venv
+ venv
+ venv/
